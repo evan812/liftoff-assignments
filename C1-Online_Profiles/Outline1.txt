@@ -1,0 +1,32 @@
+	Ever get tired of remembering all your pets infomation, or move to often to be consistent with any vet or pet sitter? When was the last 
+time they got their core vaccines? Can't remember their birthday? Our app <Petlife> has a space for you to save all your pets' information in one
+ place. Your Vet and pet sitter will be able to have accounts and easy access to all your pets information. Your pet(s) will be glad you got it be
+cause with a quick search you will know about their temperment, whether they get along with other dogs and people, and if they have any medical 
+alerts. Create your own account today to create your pet(s) profile and start connecting. Just a paw click away.....
+
+Features:
+-User Login: Pet owners, Vets and Pet sitters are all the ideal candidates for our app.
+-Profile input: Pet owners will be able to input and update information for each animal they have. Other users will be able to view your pets 
+  profiles and maybe interact with(like, comment, etc).
+-Search: Users will be able to search for pets using pet names and possibly broad location finder.
+-Private Info: Some users such as vets will have access to certain information others wont as well as be able to enter information in a private 
+  section
+
+Technologies:
+-MySQL
+-Thymeleaf templates
+-Java?
+-Spring Boot
+
+To Learn:
+-Using a database on a much larger scale
+-Possibly connecting GPS/location services into app
+-More front end visual stuff
+-A lot more that i have yet to run into
+
+
+My personal Trello:
+https://trello.com/b/oIHbynGd/first
+
+Group Trello:
+https://trello.com/b/kBvw6pI9/pet-tracker
